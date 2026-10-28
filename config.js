@@ -13,8 +13,8 @@ window.JARVIS_SITE = {
   platform: 'macOS',
   arch: 'Intel (x64)',
 
-  githubUser: '',
-  githubRepo: '',
+  githubUser: 'Mimic24-25',
+  githubRepo: 'jarvis',
   assetName: 'JARVIS-Installer.dmg',
 
   downloadUrl: '',
